@@ -16,6 +16,11 @@ This repository contains a simple Java application to test out the Gradle build 
     5 actionable tasks: 5 executed
     ```
 
+- You can used the following command to run the applicaiton:
+    ```
+    java -jar build/libs/java-app-1.0-SNAPSHOT.jar
+    ```
+
 ## Course
 
 💻 Part of this [DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). Check it out!
